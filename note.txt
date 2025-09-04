@@ -1,0 +1,21 @@
+Gawe :
+- Preprocessing
+- Analisis & Visualisasi
+- Tambahan
+
+Pertanyaan : 
+- Menentukan Berapa Banyak Peluang Kerja Ai Engineering Dan Ml Engineering Di Indonesia
+- Berapa Persen Dari Peluang Tersebut Yang Terbuka Untuk Fresh Graduate
+- Berapa Perbandingan Peluang Kerja Ai Engineering Dan Ml Engineering
+- Berapa Gaji Terendah, Tertinggi, Dan Rata-Rata Gaji Yang Ditawarkan Secara Keseluruhan Data
+- Berapa Persen Gaji Terendah, Tertinggi, Dan Rata-Rata Gaji Yang Ditawarkan Berdasarkan Umr Lokasi Yang Ditawarkan.
+- Berapa yang menawarkan kerja penuh waktu dan paruh waktu.
+- Berapa yang menawarkan kerja work from home dan work from office.
+
+Tambahan :
+- Feature Engineering ( buat fitur tambahan dari fitur yang ada, encoding)
+- Clustering
+- Dashboard (power BI / tableau / streamlit)
+- Tulis ( upload di medium)
+
+saran : analisis sendiri" dan dikumpul ke github organisasi, karena tujuan awal untuk menambah porto
