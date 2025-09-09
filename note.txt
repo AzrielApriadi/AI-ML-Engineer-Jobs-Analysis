@@ -5,12 +5,14 @@ Gawe :
 
 Pertanyaan : 
 - Menentukan Berapa Banyak Peluang Kerja Ai Engineering Dan Ml Engineering Di Indonesia
-- Berapa Persen Dari Peluang Tersebut Yang Terbuka Untuk Fresh Graduate
-- Berapa Perbandingan Peluang Kerja Ai Engineering Dan Ml Engineering
-- Berapa Gaji Terendah, Tertinggi, Dan Rata-Rata Gaji Yang Ditawarkan Secara Keseluruhan Data
-- Berapa Persen Gaji Terendah, Tertinggi, Dan Rata-Rata Gaji Yang Ditawarkan Berdasarkan Umr Lokasi Yang Ditawarkan.
+- Berapa Persen/Peluang Yang Terbuka Untuk Fresh Graduate
+- Berapa Gaji Terendah, Tertinggi, Dan Rata-Rata Gaji Yang Ditawarkan
 - Berapa yang menawarkan kerja penuh waktu dan paruh waktu.
 - Berapa yang menawarkan kerja work from home dan work from office.
+- Berapa rata-rata pelamar dan adakah hubungan dengan waktu job di posting
+- Berapa rata-rata/minimal/tertinggi tahun experience yang dibutuhkan dan adakah hubungannya dengan degree
+- Platform mana yang menawarkan lowongan kerja terbanyak 
+- 
 
 Tambahan :
 - Feature Engineering ( buat fitur tambahan dari fitur yang ada, encoding)
